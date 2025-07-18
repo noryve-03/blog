@@ -1,0 +1,22 @@
+{
+	"Airrag": {
+		"description": "A powerful code search engine for modern agents.",
+		"markdown": "airrag.md",
+		"tags": ["AI", "Code Search", "MCP", "Python"]
+	}, 
+	"RV-EMU": {
+		"description": "An extensible RISC-V simulator, written fully in Rust.",
+		"markdown": "rvemu.md",
+		"tags": ["RISC-V", "Rust", "CPU Design", "Simulation"]
+	}, 
+	"NutrAI": {
+		"description": "A fully local, private nutrition app that uses LLMs and VLMs on a mobile device.",
+		"markdown": "nutrai.md",
+		"tags": ["AI", "Mobile", "Nutrition", "LLM", "VLM"]
+	},
+	"Marvin" : {
+		"description": "Validation of robotics tasks at the speed of thought.",
+		"markdown": "marvin.md",
+		"tags": ["Robotics", "AI", "Validation", "Automation"]
+	}
+}
